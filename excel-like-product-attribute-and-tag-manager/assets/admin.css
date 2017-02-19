@@ -1,0 +1,146 @@
+#wpbody-content #message{
+ display:none;
+}
+
+.productexcellikemanager-settings {
+
+}
+
+.productexcellikemanager-settings .plem_button{
+	background:#9b4f96; 
+	border:none; 
+	margin-top:15px;
+	padding:12px 26px;
+	font-size:16px;
+	color:white;
+	cursor:pointer;
+	min-height: 47px;
+}
+
+.productexcellikemanager-settings .plem_button:hover{
+	background-color: #00bcF2;
+}
+
+.productexcellikemanager-settings  .txt{
+	width:300px;
+	text-align:center;
+	border:1px solid #9b4f96; 
+	background:#dddddd;
+}
+
+.plem-mesage{
+	color:red;
+}
+
+.plem-mesage > span{
+	color:green;
+}
+
+DIV#wpbody-content > DIV.error{
+    display:none;
+}
+
+.productexcellikemanager-settings .checkbox-list INPUT{
+    margin-left:5px;
+}
+
+.productexcellikemanager-settings  table,
+.productexcellikemanager-settings  table *,
+.productexcellikemanager-settings .checkbox-list, 
+.productexcellikemanager-settings .checkbox-list *{
+    text-align:left;
+	vertical-align:middle;
+}
+
+.productexcellikemanager-settings  table TR TD{ 
+	padding:15px;
+}
+
+.productexcellikemanager-settings  table table TR TD{ 
+	padding:3px;
+}
+
+.productexcellikemanager-settings .checkbox-list{
+	padding-top:8px;
+}
+
+.productexcellikemanager-settings .checkbox-list label{
+	display:inline-block;
+	min-width:90px;
+}
+
+
+.ui-autocomplete {
+    max-height: 220px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+  }
+
+* html  .ui-autocomplete {
+    height: 220px;
+}
+
+.productexcellikemanager-settings  .editor-options .chk,
+.productexcellikemanager-settings  .editor-options .rdo{
+    margin:4px 12px 4px 2px;
+}
+
+.productexcellikemanager-settings  TABLE.table TR  TD{
+    border-bottom:1px dotted silver;
+}
+
+.update-nag, .updated, #message{
+	display:none!important;
+}
+
+#wpbody.spreadsheet{
+	position: fixed;
+	right: 0;
+}
+
+.cf-table TD > INPUT[type="text"],
+.cf-table TD > SELECT,
+.cf-table TD > TEXTAREA{
+	width:100%;
+}
+
+.show_sub-options_text_meta{
+	display:none;
+}
+
+.sub-options.text.meta .show_sub-options_text_meta{
+	display:inline;
+}
+
+
+
+.only-for-meta,
+.only-for-post,
+.only-for-term{
+	display:none;
+}
+
+.cf-row-meta .only-for-meta{
+	display:inline-block;
+}
+
+.cf-row-term .only-for-term{
+	display:inline-block;
+}
+
+.cf-row-post .only-for-post{
+	display:inline-block;
+}
+
+.woo-udf .wpsc{
+	display:none;
+}
+
+.wpsc-udf .woo{
+	display:none;
+}
+
+body.rtl #wpbody{
+    margin-right: 180px;
+}

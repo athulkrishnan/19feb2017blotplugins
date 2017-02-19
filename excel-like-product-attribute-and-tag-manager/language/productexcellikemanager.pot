@@ -1,0 +1,307 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: C:\\WORDPRESS\\WOOEXCEL\\wp-content\\plugins\\excel-like-"
+"product-manager-for-woocommerce-and-wp-e-commerce\\shops\\\n"
+"POT-Creation-Date: 2014-05-24 22:07+0100\n"
+"PO-Revision-Date: 2014-05-24 22:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: Holest Engineering <info@holest.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: C:\\WORDPRESS\\WOOEXCEL\\wp-content\\plugins\\excel-like-"
+"product-manager-for-woocommerce-and-wp-e-commerce\\\n"
+"X-Poedit-SearchPath-0: shops\n"
+
+#: shops/wooc.php:1630 shops/wpsc.php:1174
+msgid "Save"
+msgstr ""
+
+#: shops/wooc.php:1631 shops/wooc.php:2881 shops/wpsc.php:1175
+#: shops/wpsc.php:2364
+msgid "Cancel"
+msgstr ""
+
+#: shops/wooc.php:1641 shops/wpsc.php:1186
+msgid "Back to Wordpress"
+msgstr ""
+
+#: shops/wooc.php:1645 shops/wpsc.php:1190
+msgid "Undo"
+msgstr ""
+
+#: shops/wooc.php:1646 shops/wpsc.php:1191
+msgid "Redo"
+msgstr ""
+
+#: shops/wooc.php:1648 shops/wpsc.php:1193
+msgid "Export/Import"
+msgstr ""
+
+#: shops/wooc.php:1650 shops/wpsc.php:1195
+msgid "Export CSV"
+msgstr ""
+
+#: shops/wooc.php:1651 shops/wpsc.php:1196
+msgid "Update from CSV"
+msgstr ""
+
+#: shops/wooc.php:1655 shops/wpsc.php:1200
+msgid "Options"
+msgstr ""
+
+#: shops/wooc.php:1657 shops/wpsc.php:1202
+msgid "Clean layout cache..."
+msgstr ""
+
+#: shops/wooc.php:1672 shops/wpsc.php:1253
+msgid "Filters"
+msgstr ""
+
+#: shops/wooc.php:1677 shops/wooc.php:2542 shops/wpsc.php:1258
+#: shops/wpsc.php:2112
+msgid "SKU"
+msgstr ""
+
+#: shops/wooc.php:1678 shops/wpsc.php:1259
+msgid "Enter part of SKU..."
+msgstr ""
+
+#: shops/wooc.php:1682 shops/wpsc.php:1263 shops/wpsc.php:2111
+msgid "Product Name"
+msgstr ""
+
+#: shops/wooc.php:1683 shops/wpsc.php:1264
+msgid "Enter part of name..."
+msgstr ""
+
+#: shops/wooc.php:1687 shops/wooc.php:2543 shops/wpsc.php:1268
+#: shops/wpsc.php:2114
+msgid "Category"
+msgstr ""
+
+#: shops/wooc.php:1688 shops/wpsc.php:1269
+msgid "Chose categories..."
+msgstr ""
+
+#: shops/wooc.php:1709 shops/wooc.php:2549 shops/wpsc.php:1289
+#: shops/wpsc.php:2118
+msgid "Tags"
+msgstr ""
+
+#: shops/wooc.php:1710 shops/wpsc.php:1290
+msgid "Chose tags..."
+msgstr ""
+
+#: shops/wooc.php:1722
+msgid "Shipping class"
+msgstr ""
+
+#: shops/wooc.php:1723
+msgid "Chose shipping classes..."
+msgstr ""
+
+#: shops/wooc.php:1744 shops/wpsc.php:1302
+msgid "Product Status"
+msgstr ""
+
+#: shops/wooc.php:1745 shops/wpsc.php:1303
+msgid "Chose status..."
+msgstr ""
+
+#: shops/wooc.php:1747 shops/wpsc.php:1305
+msgid "Published"
+msgstr ""
+
+#: shops/wooc.php:1748 shops/wpsc.php:1306
+msgid "Pending"
+msgstr ""
+
+#: shops/wooc.php:1749 shops/wpsc.php:1307
+msgid "Draft"
+msgstr ""
+
+#: shops/wooc.php:1750 shops/wpsc.php:1308
+msgid "Auto-draft"
+msgstr ""
+
+#: shops/wooc.php:1751 shops/wpsc.php:1309
+msgid "Future"
+msgstr ""
+
+#: shops/wooc.php:1752 shops/wpsc.php:1310
+msgid "Private"
+msgstr ""
+
+#: shops/wooc.php:1753 shops/wpsc.php:1311
+msgid "Inherit"
+msgstr ""
+
+#: shops/wooc.php:1754 shops/wpsc.php:1312
+msgid "Trash"
+msgstr ""
+
+#: shops/wooc.php:1763
+msgid "Chose values..."
+msgstr ""
+
+#: shops/wooc.php:1781 shops/wpsc.php:1317
+msgid "Refresh"
+msgstr ""
+
+#: shops/wooc.php:1785 shops/wpsc.php:1325
+msgid "Mass update by filter criteria: "
+msgstr ""
+
+#: shops/wooc.php:1786 shops/wpsc.php:1326
+#, php-format
+msgid "[+/-]X%s or [+/-]X"
+msgstr ""
+
+#: shops/wooc.php:1787 shops/wpsc.php:1327
+msgid "Mass update price"
+msgstr ""
+
+#: shops/wooc.php:1788 shops/wpsc.php:1328
+msgid "Mass update sales price"
+msgstr ""
+
+#: shops/wooc.php:1801 shops/wpsc.php:1342
+msgid "Limit:"
+msgstr ""
+
+#: shops/wooc.php:1835 shops/wpsc.php:1376
+#, php-format
+msgid "Page %s of %s, total %s products by filter criteria"
+msgstr ""
+
+#: shops/wooc.php:1839 shops/wpsc.php:1380
+msgid "*All changes are instantly autosaved"
+msgstr ""
+
+#: shops/wooc.php:1896 shops/wpsc.php:1414
+msgid "Transactions ongoing. Plese wait a bit more for them to complete!"
+msgstr ""
+
+#: shops/wooc.php:2027 shops/wooc.php:2891 shops/wpsc.php:1530
+#: shops/wpsc.php:2374
+msgid "Enter value first!"
+msgstr ""
+
+#: shops/wooc.php:2031 shops/wpsc.php:1534
+msgid ""
+"Update proiduct price for all products matched by filter criteria (this "
+"operation can not be undone)?"
+msgstr ""
+
+#: shops/wooc.php:2540
+msgid "Name"
+msgstr ""
+
+#: shops/wooc.php:2541 shops/wpsc.php:2113
+msgid "Slug"
+msgstr ""
+
+#: shops/wooc.php:2544
+msgid "Featured"
+msgstr ""
+
+#: shops/wooc.php:2545
+msgid "In stock?"
+msgstr ""
+
+#: shops/wooc.php:2546 shops/wpsc.php:2115
+msgid "Stock"
+msgstr ""
+
+#: shops/wooc.php:2547 shops/wpsc.php:2116
+msgid "Price"
+msgstr ""
+
+#: shops/wooc.php:2548 shops/wpsc.php:2117
+msgid "Sales price"
+msgstr ""
+
+#: shops/wooc.php:2558 shops/wpsc.php:2119
+msgid "Status"
+msgstr ""
+
+#: shops/wooc.php:2559 shops/wpsc.php:1213 shops/wpsc.php:2120
+msgid "Weight"
+msgstr ""
+
+#: shops/wooc.php:2560 shops/wpsc.php:1213 shops/wpsc.php:2121
+msgid "Height"
+msgstr ""
+
+#: shops/wooc.php:2561 shops/wpsc.php:1213 shops/wpsc.php:2122
+msgid "Width"
+msgstr ""
+
+#: shops/wooc.php:2562 shops/wpsc.php:1213 shops/wpsc.php:2123
+msgid "Length"
+msgstr ""
+
+#: shops/wooc.php:2563 shops/wpsc.php:2124
+msgid "Image"
+msgstr ""
+
+#: shops/wooc.php:2564
+msgid "Backorders"
+msgstr ""
+
+#: shops/wooc.php:2565
+msgid "Shipp. class"
+msgstr ""
+
+#: shops/wooc.php:2566
+msgid "Tax status"
+msgstr ""
+
+#: shops/wooc.php:2567
+msgid "Tax class"
+msgstr ""
+
+#: shops/wooc.php:2834 shops/wpsc.php:2322
+#, php-format
+msgid ""
+"Proiduct price for all products matched by filter criteria is changed by %s"
+msgstr ""
+
+#: shops/wooc.php:2842 shops/wpsc.php:2330
+#, php-format
+msgid "%s products updated prices form imported file!"
+msgstr ""
+
+#: shops/wooc.php:2881 shops/wpsc.php:2364
+msgid ""
+"Select .CSV file to update prices/stock from.<br>(To void price, stock or "
+"any available field update remove coresponding column from CSV file)"
+msgstr ""
+
+#: shops/wooc.php:2881 shops/wpsc.php:2364
+msgid "File:"
+msgstr ""
+
+#: shops/wooc.php:2881 shops/wpsc.php:2364
+msgid "Import"
+msgstr ""
+
+#: shops/wpsc.php:1213
+msgid "Input units"
+msgstr ""
+
+#: shops/wpsc.php:2125
+msgid "Taxable"
+msgstr ""
+
+#: shops/wpsc.php:2126
+msgid "Local ship."
+msgstr ""
+
+#: shops/wpsc.php:2127
+msgid "Int. ship."
+msgstr ""

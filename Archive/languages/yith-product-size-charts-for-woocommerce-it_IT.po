@@ -1,0 +1,483 @@
+# Copyright (C) 2015 YIThemes
+# This file is distributed under the same license as the YITH Plugin Starter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Product Size Charts for WooCommerce\n"
+"Report-Msgid-Bugs-To: Your Inspiration Themes <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2015-11-06 11:40+0100\n"
+"PO-Revision-Date: 2015-11-06 11:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <info@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: class.yith-wcpsc-admin-premium.php:149
+msgctxt "Admin:title of Metabox"
+msgid "Product Size Charts"
+msgstr "Tabelle misure"
+
+#: class.yith-wcpsc-admin-premium.php:155
+msgctxt "Admin:title of Metabox tab"
+msgid "Product Size Charts"
+msgstr "Tabelle misure"
+
+#: class.yith-wcpsc-admin-premium.php:158
+msgctxt "Admin:title of Metabox field"
+msgid "Product Size Charts"
+msgstr "Tabelle misure"
+
+#: class.yith-wcpsc-admin-premium.php:159
+msgid "Select size charts you want show in this product"
+msgstr "Seleziona le tabelle misure che vuoi mostrare in questo prodotto"
+
+#: class.yith-wcpsc-admin-premium.php:195
+msgid "Display as"
+msgstr "Mostra come"
+
+#: class.yith-wcpsc-admin-premium.php:196
+msgid "Select how you want display the chosen Product Size Chart."
+msgstr "Selez"
+
+#: class.yith-wcpsc-admin-premium.php:200
+msgid "Tab"
+msgstr "Scheda"
+
+#: class.yith-wcpsc-admin-premium.php:201
+msgid "Popup"
+msgstr "Popup"
+
+#: class.yith-wcpsc-admin-premium.php:202
+msgid "Tabbed Popup"
+msgstr "Popup con schede"
+
+#: class.yith-wcpsc-admin-premium.php:207
+msgid "Show in widget"
+msgstr "Mostra nel widget"
+
+#: class.yith-wcpsc-admin-premium.php:208
+msgid "Check it if you want to display the Product Size Chart in a Widget."
+msgstr ""
+"Spunta questa opzione se vuoi che le tabelle misure vengano mostrate in un widget."
+
+#: class.yith-wcpsc-admin-premium.php:214
+msgid "Title of description tab"
+msgstr "Titolo scheda descrizione"
+
+#: class.yith-wcpsc-admin-premium.php:215
+msgid ""
+"Enter here the text you want display as title of the description tab of the "
+"selected Product Size Chart."
+msgstr ""
+"Inserisci qui il testo da usare come titolo della scheda descrizione della tabella "
+"misure selezionata."
+
+#: class.yith-wcpsc-admin-premium.php:218 class.yith-wcpsc-admin.php:175
+msgid "Description"
+msgstr "Descrizione"
+
+#: class.yith-wcpsc-admin-premium.php:221
+msgid "Tab position"
+msgstr "Posizione della tab"
+
+#: class.yith-wcpsc-admin-premium.php:222
+msgid ""
+"Use this field to choose the position of the tab. Please consider the following "
+"WooCommerce priority order: 10 -> Description tab; 20 -> Additional Information "
+"tab; 30 -> Reviews tab"
+msgstr ""
+"Utilizza questo campo per inserire la tab nella posizione che preferisci. Per far "
+"ciò, ricorda l'ordine di priorità prestabilito di WooCommerce: 10 -> tab "
+"Descrizione; 20 -> tab Informazioni addizionali; 30 -> tab Recensioni"
+
+#: class.yith-wcpsc-admin-premium.php:242
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: class.yith-wcpsc-admin-premium.php:243
+msgid "Advanced Display"
+msgstr "Visualizzazione avanzata"
+
+#: class.yith-wcpsc-admin-premium.php:307
+msgid "Select the Product Size Chart you want to add"
+msgstr "Seleziona la tabella misure da aggiungere"
+
+#: class.yith-wcpsc-admin-premium.php:316
+msgid "Add"
+msgstr "Aggiungi"
+
+#: class.yith-wcpsc-admin-premium.php:317
+msgid "Cancel"
+msgstr "Annulla"
+
+#: class.yith-wcpsc-admin-premium.php:333
+msgctxt "Admin:title of column in products table"
+msgid "Product Size Charts"
+msgstr "Tabelle misure"
+
+#: class.yith-wcpsc-admin-premium.php:562 class.yith-wcpsc-admin.php:409
+msgid "YIT Plugins"
+msgstr "YIT Plugins"
+
+#: class.yith-wcpsc-admin.php:153
+msgid "Plugin Documentation"
+msgstr "Documentazione plugin"
+
+#: class.yith-wcpsc-admin.php:184
+msgctxt "plugin name in admin page title"
+msgid "Product Size Charts"
+msgstr "Product Size Charts"
+
+#: class.yith-wcpsc-admin.php:185
+msgctxt "plugin name in admin WP menu"
+msgid "Product Size Charts"
+msgstr "Product Size Charts"
+
+#: class.yith-wcpsc-admin.php:216 plugin-options/description-options.php:7
+msgid "Size Charts"
+msgstr "Tabelle misure"
+
+#: class.yith-wcpsc-admin.php:217
+msgid "Size Chart"
+msgstr "Tabella misure"
+
+#: class.yith-wcpsc-admin.php:218
+msgid "Add Size Chart"
+msgstr "Aggiungi tabella misure"
+
+#: class.yith-wcpsc-admin.php:219
+msgid "New Size Chart"
+msgstr "Nuova tabella misure"
+
+#: class.yith-wcpsc-admin.php:220
+msgid "Edit Size Chart"
+msgstr "Modifica tabella misure"
+
+#: class.yith-wcpsc-admin.php:221
+msgid "View Size Chart"
+msgstr "Visualizza tabella misure"
+
+#: class.yith-wcpsc-admin.php:222
+msgid "Size Chart not found"
+msgstr "Tabella misure non trovata"
+
+#: class.yith-wcpsc-admin.php:223
+msgid "Size Chart not found in trash"
+msgstr "Tabella misure non trovata nel carrello"
+
+#: class.yith-wcpsc-admin.php:277
+msgid "None"
+msgstr "Nessuno"
+
+#: class.yith-wcpsc-admin.php:287 class.yith-wcpsc-admin.php:293
+msgid "Chart Options"
+msgstr "Opzioni tabella"
+
+#: class.yith-wcpsc-admin.php:296
+msgid "Product"
+msgstr "Prodotto"
+
+#: class.yith-wcpsc-admin.php:297
+msgid "Select the product in which this size chart has to be shown."
+msgstr "Seleziona il prodotto in cui mostrare la tabella misure."
+
+#: class.yith-wcpsc-admin.php:356
+msgid "Create your Size Chart"
+msgstr "Crea la tua tabella misure"
+
+#: includes/class.yith-wcpsc-widget.php:28
+msgid "Display a list with your Product Size Charts."
+msgstr "Mostra un elenco con le tue tabelle misure."
+
+#: includes/class.yith-wcpsc-widget.php:30
+msgid "YITH Product Size Charts"
+msgstr "YITH Tabella Misure"
+
+#: includes/class.yith-wcpsc-widget.php:35
+msgctxt "default title for plugin widget"
+msgid "Product Size Charts"
+msgstr "Tabelle misure"
+
+#: includes/class.yith-wcpsc-widget.php:36
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/class.yith-wcpsc-widget.php:44
+msgid "Number of charts to show"
+msgstr "Numero di tabelle da mostrare"
+
+#: init.php:50
+msgid ""
+"YITH Product Size Charts for WooCommerce Premium is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH Product Size Charts for WooCommerce Premium è abilitato ma non in funzione. "
+"Devi aver installato WooCommerce perché questo possa funzionare correttamente."
+
+#: plugin-options/advanced-display-options.php:35
+msgid "Advanced Options"
+msgstr "Opzioni avanzate"
+
+#: plugin-options/advanced-display-options.php:41
+msgid "Charts for all products"
+msgstr "Tabelle per tutti i prodotti"
+
+#: plugin-options/advanced-display-options.php:43
+msgid "Select the Product Size Charts you want to display in all products"
+msgstr "Seleziona le tabelle misure che vuoi mostrare su tutti i prodotti"
+
+#: plugin-options/advanced-display-options.php:54
+msgid "Category Options"
+msgstr "Opzioni categoria"
+
+#: plugin-options/advanced-display-options.php:70
+#, php-format
+msgid ""
+"Select the Product Size Charts you want to display in all products belonging to "
+"category %s"
+msgstr ""
+"Seleziona le tabelle misure che vuoi mostrare su tutti i prodotti appartenenti "
+"alla categoria %s"
+
+#: plugin-options/description-options.php:5
+msgid ""
+"YITH Product Size Charts for WooCommerce allows you to create custom size charts. "
+"Go to "
+msgstr ""
+"YITH Product Size Charts for WooCommerce ti permette di creare tabelle misure "
+"personalizzate. Vai a "
+
+#: plugin-options/description-options.php:9
+msgid ""
+". Add your Size Chart and assign it to a product. It will be visible on detail "
+"page of the selected product"
+msgstr ""
+". Aggiungi la tua tabella misure ed assegnala ad un prodotto. Sarà visibile nella "
+"pagina dettaglio del prodotto selezionato"
+
+#: plugin-options/description-options.php:14
+msgctxt "Admin:title of field description in description-tab"
+msgid "Product Size Charts"
+msgstr "Tabelle misure prodotti"
+
+#: plugin-options/settings-options.php:10
+msgid "Popup Options"
+msgstr "Opzioni popup"
+
+#: plugin-options/settings-options.php:16 plugin-options/settings-options.php:176
+msgid "Style"
+msgstr "Stile"
+
+#: plugin-options/settings-options.php:18
+msgid "Select the style you want to apply to all popups"
+msgstr "Seleziona lo stile da applicare a tutte le popup"
+
+#: plugin-options/settings-options.php:21 plugin-options/settings-options.php:181
+msgid "Default"
+msgstr "Predefinito"
+
+#: plugin-options/settings-options.php:22 plugin-options/settings-options.php:182
+msgid "Informal"
+msgstr "Informale"
+
+#: plugin-options/settings-options.php:23 plugin-options/settings-options.php:183
+msgid "Elegant"
+msgstr "Elegante"
+
+#: plugin-options/settings-options.php:24 plugin-options/settings-options.php:184
+msgid "Casual"
+msgstr "Casual"
+
+#: plugin-options/settings-options.php:30 plugin-options/settings-options.php:190
+msgid "Main Color"
+msgstr "Colore principale"
+
+#: plugin-options/settings-options.php:32
+msgid "Select the main color for popups"
+msgstr "Seleziona il colore principale per le popup"
+
+#: plugin-options/settings-options.php:38
+msgid "Position"
+msgstr "Posizione"
+
+#: plugin-options/settings-options.php:40
+msgid "Select the position you want to apply to all popups"
+msgstr "Seleziona la posizione da applicare a tutte le popup"
+
+#: plugin-options/settings-options.php:43
+msgid "Center"
+msgstr "Centrato"
+
+#: plugin-options/settings-options.php:44
+msgid "Top Left"
+msgstr "In alto a sinistra"
+
+#: plugin-options/settings-options.php:45
+msgid "Top Right"
+msgstr "In alto a destra"
+
+#: plugin-options/settings-options.php:46
+msgid "Bottom Left"
+msgstr "In basso a sinistra"
+
+#: plugin-options/settings-options.php:47
+msgid "Bottom Right"
+msgstr "In basso a destra"
+
+#: plugin-options/settings-options.php:48
+msgid "Top Center"
+msgstr "Centrato in alto"
+
+#: plugin-options/settings-options.php:49
+msgid "Bottom Center"
+msgstr "Centrato in basso"
+
+#: plugin-options/settings-options.php:55
+msgid "Effect"
+msgstr "Effetto"
+
+#: plugin-options/settings-options.php:57
+msgid "Select the effect you want to apply to all popups"
+msgstr "Seleziona l'effetto da applicare a tutte le popup"
+
+#: plugin-options/settings-options.php:60
+msgid "Fade"
+msgstr "Dissolvenza"
+
+#: plugin-options/settings-options.php:61
+msgid "Slide"
+msgstr "Scorrimento"
+
+#: plugin-options/settings-options.php:62
+msgid "Zoom In"
+msgstr "Zoom avanti"
+
+#: plugin-options/settings-options.php:63
+msgid "Zoom Out"
+msgstr "Zoom indietro"
+
+#: plugin-options/settings-options.php:69
+msgid "Overlay Color"
+msgstr "Colore overlay"
+
+#: plugin-options/settings-options.php:71
+msgid "Select the color you want to apply to popup overlay"
+msgstr "Seleziona il colore di overlay da applicare alla popup"
+
+#: plugin-options/settings-options.php:77
+msgid "Overlay Opacity"
+msgstr "Opacità overlay"
+
+#: plugin-options/settings-options.php:79
+msgid "Select the opacity you want to set for popup overlay"
+msgstr "Imposta il valore per l'opacità dell'overlay della popup"
+
+#: plugin-options/settings-options.php:93
+msgid "Popup Button Options"
+msgstr "Opzioni pulsante popup"
+
+#: plugin-options/settings-options.php:99
+msgid "Button Position"
+msgstr "Posizione pulsante"
+
+#: plugin-options/settings-options.php:101
+msgid "Select the position you want to apply to buttons in all popups."
+msgstr "Seleziona la posizione dei pulsanti in tutte le popup."
+
+#: plugin-options/settings-options.php:104
+msgid "Before summary"
+msgstr "Prima del riepilogo"
+
+#: plugin-options/settings-options.php:105
+msgid "Before description"
+msgstr "Prima della descrizione"
+
+#: plugin-options/settings-options.php:106
+msgid "After description"
+msgstr "Dopo la descrizione"
+
+#: plugin-options/settings-options.php:107
+msgid "After \"Add to Cart\" Button"
+msgstr "Dopo il pulsante \"Aggiungi al carrello\""
+
+#: plugin-options/settings-options.php:108
+msgid "After summary"
+msgstr "Dopo il riepilogo"
+
+#: plugin-options/settings-options.php:114
+msgid "Button Color"
+msgstr "Colore pulsante"
+
+#: plugin-options/settings-options.php:116
+msgid "Select the color you want to apply to the popup button"
+msgstr "Seleziona il colore da applicare al pulsante della popup"
+
+#: plugin-options/settings-options.php:122
+msgid "Button Text Color"
+msgstr "Colore testo pulsante"
+
+#: plugin-options/settings-options.php:124
+msgid "Select the color you want to apply to popup button text"
+msgstr "Seleziona il colore da applicare al testo del pulsante"
+
+#: plugin-options/settings-options.php:130
+msgid "Border Radius"
+msgstr "Angoli arrotondati"
+
+#: plugin-options/settings-options.php:132
+msgid "Select the border radius for popup"
+msgstr "Seleziona il valore dei bordi arrotondati per la popup"
+
+#: plugin-options/settings-options.php:140
+msgid "Padding"
+msgstr "Padding"
+
+#: plugin-options/settings-options.php:149
+msgid "Top"
+msgstr "Sopra"
+
+#: plugin-options/settings-options.php:150
+msgid "Right"
+msgstr "Destra"
+
+#: plugin-options/settings-options.php:151
+msgid "Bottom"
+msgstr "Sotto"
+
+#: plugin-options/settings-options.php:152
+msgid "Left"
+msgstr "Sinistra"
+
+#: plugin-options/settings-options.php:158
+msgid "Button Shadow Color"
+msgstr "Colore ombreggiatura pulsante"
+
+#: plugin-options/settings-options.php:160
+msgid "Select the color you want to apply to popup button shadow"
+msgstr "Seleziona il colore da applicare all'ombreggiatura del pulsante popup"
+
+#: plugin-options/settings-options.php:170
+msgid "Table Options"
+msgstr "Opzioni tabella"
+
+#: plugin-options/settings-options.php:178
+msgid "Select the style you want to apply to all tables"
+msgstr "Seleziona lo stile da applicare a tutte le tabelle"
+
+#: plugin-options/settings-options.php:192
+msgid "Select the main color for tables"
+msgstr "Seleziona il colore principale per le tabelle"
+
+#~ msgid "Select the border radius for popup overlay"
+#~ msgstr "Seleziona il valore per"

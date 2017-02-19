@@ -1,0 +1,85 @@
+@font-face {
+	font-family: 'socialstreams';
+	src:url('fonts/socialstreams.eot?nbietm');
+	src:url('fonts/socialstreams.eot?#iefixnbietm') format('embedded-opentype'),
+		url('fonts/socialstreams.woff?nbietm') format('woff'),
+		url('fonts/socialstreams.ttf?nbietm') format('truetype'),
+		url('fonts/socialstreams.svg?nbietm#socialstreams') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="ss-icon-"], [class*=" ss-icon-"] {
+	font-family: 'socialstreams';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.ss-icon-warning:before {
+	content: "\e60c";
+}
+
+.ss-icon-draft:before {
+	content: "\e60d";
+}
+
+.ss-icon-ss-logo:before {
+	content: "\e60e";
+}
+
+.ss-icon-spinner:before {
+	content: "\e60a";
+}
+
+.ss-icon-chevron-down:before {
+	content: "\e60b";
+}
+
+.ss-icon-close:before {
+	content: "\e600";
+}
+
+.ss-icon-level-up:before {
+	content: "\e601";
+}
+
+.ss-icon-instagram:before {
+	content: "\e603";
+}
+
+.ss-icon-twitter:before {
+	content: "\e604";
+}
+
+.ss-icon-cog:before {
+	content: "\e605";
+}
+
+.ss-icon-reply:before {
+	content: "\e606";
+}
+
+.ss-icon-retweet:before {
+	content: "\e607";
+}
+
+.ss-icon-trash-o:before {
+	content: "\e608";
+}
+
+.ss-icon-check:before {
+	content: "\e609";
+}
+
+.ss-icon-refresh:before {
+	content: "\e602";
+}
+

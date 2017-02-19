@@ -1,0 +1,111 @@
+*** Bulk Stock Management Changelog ***
+
+2016.08.03 - version 2.2.2
+* Fix - Variation quantity column is not sorting correctly.
+* Tweak - Update stock report Unit Cost header to Unit Retail Price to be more clear.
+
+2015.11.12 - version 2.2.1
+* Tweak - New wc_bulk_stock_after_process_action and wc_bulk_stock_before_process_action actions
+
+2015.10.29 - version 2.2.0
+* Refactored bulk action processing
+* Fix - Request URI too large
+
+2015.08.07 - version 2.1.2
+* Fix - After filtering on category, pagination would not work within the chosen category
+
+2015.7.23 - version 2.1.1
+* Fix - View stock report page was not properly showing variation data
+
+2015.07.19 - version 2.1.0
+* New - Added screen options to bulk product stock list
+
+2015.07.13 - version 2.0.1
+* Fix - error when bulk editing stock status
+* Fix - ID column is not sortable
+* Fix - Variations filter product category not displaying correctly
+* Fix - Variations filter only page count was not correct
+* New - Introduce wc_stock_management_list_per_page filter to control per page items
+
+2015.06.03 - version 2.0.0
+* Updated save and data structure to WC 2.3 standards.
+* Improved and cleaned up UI.
+* Refactored code base.
+
+2014.03.20 - version 1.9.3
+* Fix variations not showing stock status
+* Fix variations not updating stock status when quantity is updated
+
+2014.12.11 - version 1.9.2
+* Fix PHP notices on bulk edit page screen
+
+2014.07.10 - version 1.9.1
+* Trigger edit post action on save so other plugins know when an update has occured
+
+2014.06.30 - version 1.9.0
+* Filter menu capability with wc_bulk_stock_cap
+* Change manu capability to edit_others_products
+* Use wc_product_sku_enabled()
+* Dropped WC < 2.1 support
+* Refactored source
+* Renamed main file
+* Renamed textdomain
+
+2014.04.16 - version 1.8.6
+* Fix update of stock status for variable products
+* Change stock field placeholder when manage stock is off
+
+2014.02.23 - version 1.8.5
+* wc_bulk_stock_before_process_qty and wc_bulk_stock_after_process_qty hooks
+
+2014.01.16 - version 1.8.4
+* 2.1 compat
+
+2013.11.08 - version 1.8.3
+* Better handling when skus are disabled
+
+2013.06.17 - version 1.8.2
+* Stock report fix
+
+2013.03.08 - version 1.8.1
+* Fix capabilities
+
+2013.01.11 - version 1.8.0
+* WC 2.0 Compat
+
+2012.12.04 - version 1.7.2
+* New updater
+
+2012.09.19 - version 1.7.1
+* Fix any category filter
+
+2012.09.19 - version 1.7
+* Removed confusing N/A Labels
+* Sort by meta_value_num to fix quantity based sorting
+
+2012.09.19 - version 1.6.1
+* Filter by category
+
+2012.06.29 - version 1.6
+* Bulk edit backorder settings
+
+2012.06.29 - version 1.5
+* More ordering tweaks for the report itself - parents are shown with variations
+* Correctly show parent sku if variation sku is blank
+* Only show variation title when not nested under parent (on report)
+
+2012.06.29 - version 1.4.1
+* get_sku()
+* Change report ordering
+
+2012.06.29 - version 1.4
+* Show attributes in report
+
+2012.04.26 - version 1.3
+* Fix conflict with amazon s3 storage
+
+2012.04.17 - version 1.2
+* Display variation attributes in the list
+
+2012.03.29 - version 1.0
+* First Release
